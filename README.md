@@ -2,4 +2,4 @@
 Learn github actions with examples
 
 # Introduction
-This repository
+This repository helps to
