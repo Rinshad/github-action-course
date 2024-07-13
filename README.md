@@ -1,3 +1,2 @@
 # github-action-course
-Learn github actions.
-Branch protection policy added
+Learn github actions with examples
